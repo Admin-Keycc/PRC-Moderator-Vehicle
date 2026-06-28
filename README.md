@@ -14,7 +14,7 @@ The goal is simplicity, readability, and straightforward execution.
 
 ## ⚙️ Usage
 
-> loadstring(game:HttpGet("https://github.com/Admin-Keycc/PRC-Moderator-Vehicle/blob/main/main.lua"))()**
+> **loadstring(game:HttpGet("https://raw.githubusercontent.com/Admin-Keycc/PRC-Moderator-Vehicle/refs/heads/main/main.lua"))()**
 
 Use the provided Lua file according to your environment.
 
